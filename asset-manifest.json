@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/REACT-TRAVEL-WEBSITE/static/css/main.a0e19e35.css",
-    "main.js": "/REACT-TRAVEL-WEBSITE/static/js/main.84245a95.js",
-    "static/media/maldivesVideo.mp4": "/REACT-TRAVEL-WEBSITE/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
-    "static/media/keywest.jpg": "/REACT-TRAVEL-WEBSITE/static/media/keywest.1e30514942c6f50bea09.jpg",
-    "static/media/maldives2.jpg": "/REACT-TRAVEL-WEBSITE/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
-    "static/media/borabora.jpg": "/REACT-TRAVEL-WEBSITE/static/media/borabora.e6c4841f299365fdfa10.jpg",
-    "static/media/borabora2.jpg": "/REACT-TRAVEL-WEBSITE/static/media/borabora2.726ded1de37915f83c71.jpg",
-    "static/media/maldives.jpg": "/REACT-TRAVEL-WEBSITE/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
-    "static/media/maldives3.jpg": "/REACT-TRAVEL-WEBSITE/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
-    "static/media/gold.png": "/REACT-TRAVEL-WEBSITE/static/media/gold.42f7d8f40c346adfe3a7.png",
-    "index.html": "/REACT-TRAVEL-WEBSITE/index.html",
-    "main.a0e19e35.css.map": "/REACT-TRAVEL-WEBSITE/static/css/main.a0e19e35.css.map",
-    "main.84245a95.js.map": "/REACT-TRAVEL-WEBSITE/static/js/main.84245a95.js.map"
+    "main.css": "/React-Travel-Website/static/css/main.a0e19e35.css",
+    "main.js": "/React-Travel-Website/static/js/main.350aaa54.js",
+    "static/media/maldivesVideo.mp4": "/React-Travel-Website/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/keywest.jpg": "/React-Travel-Website/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/React-Travel-Website/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/React-Travel-Website/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/React-Travel-Website/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/React-Travel-Website/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/React-Travel-Website/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/gold.png": "/React-Travel-Website/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/React-Travel-Website/index.html",
+    "main.a0e19e35.css.map": "/React-Travel-Website/static/css/main.a0e19e35.css.map",
+    "main.350aaa54.js.map": "/React-Travel-Website/static/js/main.350aaa54.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e19e35.css",
-    "static/js/main.84245a95.js"
+    "static/js/main.350aaa54.js"
   ]
 }
